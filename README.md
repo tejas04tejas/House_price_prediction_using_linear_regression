@@ -1,8 +1,8 @@
 # HOUSE PRICE PREDICTION USING LINEAR REGRESSION
-💡 Project Title: House Price Prediction using Linear Regression
-📝 Project Overview:
+ Project Title: House Price Prediction using Linear Regression
+ Project Overview:
 This project involves building a machine learning model to predict California housing prices based on features like median income, average rooms, house age, and population. The model is developed using the Linear Regression algorithm from the scikit-learn library. Visualization tools such as Seaborn and Matplotlib are used to explore the data and evaluate model performance.
-🔧 Technologies and Libraries Used:
+Technologies and Libraries Used:
 Python – Core programming language.
 
 
@@ -18,7 +18,7 @@ NumPy – For numerical operations.
 Matplotlib & Seaborn – For data visualization.
 
 
-📌 Step-by-step Explanation:
+Step-by-step Explanation:
 Install Required Libraries:
  We install libraries like scikit-learn, matplotlib, and seaborn to run the model on Google Colab.
 
@@ -63,6 +63,6 @@ Visualize the Results:
  Plot actual prices vs predicted prices using a scatter plot to visually inspect how accurate the model is.
 
 
-✅ Outcome:
+Outcome:
  Successfully built a machine learning model that predicts house prices using linear regression with decent accuracy. The project demonstrates data preprocessing, visualization, model training, and evaluation, all essential steps in a real-world ML pipeline.
 
